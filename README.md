@@ -7,7 +7,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=D3ATH-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=D3ATH-hub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ATH-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://komarev.com/ghpvc/?username=D3ATH-hub&color=blue)
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=D3ATH-hub&style=flat-square&color=blue" style="height:28px" alt=""/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=D3ATH-hub&theme=dark&no-frame=true&no-bg=true&margin-w=4)
